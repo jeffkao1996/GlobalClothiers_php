@@ -1,0 +1,4 @@
+
+/*  Module 12: Exercise 4 Merchandising with s.products  */
+
+s.products = ";" + _satellite.getVar('productName') + ";;;;eVar6=" + _satellite.getVar('siteSubsection');

@@ -1,0 +1,8 @@
+
+/*  Module 10: Exercise 3 Shopping Cart Funnel Checkout Process  */
+
+s.products=";"+_satellite.getVar('productName');
+
+/* OR */
+
+s.products = ";"+digitalData.product.productName;

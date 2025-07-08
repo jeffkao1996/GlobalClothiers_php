@@ -1,0 +1,4 @@
+
+/*  Module 11: Exercise 1 Purchase Confirmation Page  */
+
+s.products = ";"+ digitalData.product.productName +";"+ digitalData.product.productTotalUnits +";"+ digitalData.product.productTotalRevenue;

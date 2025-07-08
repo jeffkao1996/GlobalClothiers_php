@@ -1,0 +1,4 @@
+
+/*  Module 10: Exercise 1 Shopping Cart Funnel Product Views  */
+
+s.products = ";" + _satellite.getVar('productName')

@@ -1,0 +1,14 @@
+
+/*  Module 3: Exercise 1 Launch Workflow walk through  */
+
+
+/*  Task 4, step 2d.  */
+
+div[class='search_title']
+
+
+
+
+/*  Task 5, step 6d  */
+
+alert("This is the product detail page for: "+_satellite.getVar("productName"));

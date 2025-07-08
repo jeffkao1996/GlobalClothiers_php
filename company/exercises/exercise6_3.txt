@@ -1,0 +1,4 @@
+
+/*  Module 6: Exercise 3 Creating Error page Rule  */
+
+s.pageType = _satellite.getVar('pageErrorPage');

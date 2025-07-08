@@ -1,0 +1,5 @@
+
+/*  Module 10: Exercise 2 Shopping Cart Funnel 'Add to Cart'  */
+
+s.products = ";" + _satellite.getVar('productName');
+s.linkTrackVars = "products";

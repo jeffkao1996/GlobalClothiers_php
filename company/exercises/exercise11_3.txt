@@ -1,0 +1,11 @@
+
+/*  Module 11: Exercise 3 Multiple product Orders  */
+
+s.products="";
+for (var i = 0; i < digitalData.cart.item.length; i++) {
+    s.products = s.products + ";" + digitalData.cart.item[i].productName + ";" + digitalData.cart.item[i].quantity + ";" + digitalData.cart.item[i].productPrice + ",";
+
+    _satellite.logger.log("*****Comment: "+i+":"+s.products)
+}
+
+s.purchaseID = digitalData.cart.cartID;  //Bonus

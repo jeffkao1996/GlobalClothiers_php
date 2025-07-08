@@ -1,0 +1,4 @@
+
+/*  Module 11: Exercise 4 Geometrixx Hotel Reservation  */
+
+s.products = ";"+ digitalData.product.hotelName +";"+ digitalData.product.hotelNights +";"+ digitalData.product.hotelPrice*digitalData.product.hotelNights +";;eVar3="+ digitalData.product.hotelGuests + "|eVar2=" + digitalData.product.hotelDate;

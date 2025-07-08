@@ -1,0 +1,7 @@
+
+/*  Module 12: Exercise 3 Implementing Charge Card Conversion  */
+
+
+// place this code inside the onClick="" of the Proceed to Apply button
+
+_satellite.track('ccapp') 

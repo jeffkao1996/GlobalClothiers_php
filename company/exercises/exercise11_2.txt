@@ -1,0 +1,4 @@
+
+/*  Module 11: Exercise 2 Product order with Event Incrementor  */
+
+s.products = ";"+ digitalData.product.productName +";"+ digitalData.product.productTotalUnits +";"+ digitalData.product.productTotalRevenue +";event5"+ digitalData.product.productTax +"|event6="+ digitalData.product.productPostage;
