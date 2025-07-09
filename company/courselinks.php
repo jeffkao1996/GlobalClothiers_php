@@ -20,9 +20,9 @@
     <title>Global Clothiers|Company|White Papers</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="robots" content="noindex, nofollow">
-    <script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/menu.js"></script>
-    <!--<script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/searchfield.js"></script> -->
-    <script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/simpleCart.js"></script>
+    <script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/menu.js"></script>
+    <!--<script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/searchfield.js"></script> -->
+    <script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/simpleCart.js"></script>
     <script language="JavaScript" type="text/javascript">
         window.onunload = function() {
             void(0)
@@ -33,10 +33,10 @@
     </script>
 
     <style type="text/css">
-        @import url(http://ats-sb.adobe.com/jjsite/include/css/jje.css);
-        @import url(http://ats-sb.adobe.com/jjsite/include/css/menu.css);
+        @import url(https://ats-sb.adobe.com/jjsite/include/css/jje.css);
+        @import url(https://ats-sb.adobe.com/jjsite/include/css/menu.css);
     </style>
-    <link rel="shortcut icon" href="http://ats-sb.adobe.com/jjsite/include/images/jj1.ico">
+    <link rel="shortcut icon" href="https://ats-sb.adobe.com/jjsite/include/images/jj1.ico">
 </head>
 
 <body>
@@ -185,7 +185,7 @@
                                 </div>
                                 <div style="font-size:12px;">
                                      <p>
-                                        <a href="http://ats-sb.adobe.com/jjsite/include/downloads/whitepapers/marketing_orgs.txt" linkname="Adobe Marketing Cloud Organization IDs" target="_blank">Adobe Marketing Cloud Org IDs</a>
+                                        <a href="https://ats-sb.adobe.com/jjsite/include/downloads/whitepapers/marketing_orgs.txt" linkname="Adobe Marketing Cloud Organization IDs" target="_blank">Adobe Marketing Cloud Org IDs</a>
                                     </p>
                                     <p>
                                         <a href="https://docs.adobelaunch.com/" target="_blank">Launch, by Adobe</a>
@@ -218,7 +218,7 @@
                                         <a href="https://marketing.adobe.com/resources/help/en_US/dtm/load_order.html" target="_blank">Load Ordre for Rules </a>
                                     </p>
                                     <p>
-                                        <a href="http://www.w3.org/2013/12/ceddl-201312.pdf" target="_blank">W3C Data Layer Standards</a>
+                                        <a href="https://www.w3.org/2013/12/ceddl-201312.pdf" target="_blank">W3C Data Layer Standards</a>
                                     </p>
                                     <p>
                                         <a href="https://marketing.adobe.com/resources/help/en_US/sc/implement/debugger.html" target="_blank">Experience Cloud Debugger</a>

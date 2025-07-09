@@ -20,9 +20,9 @@
     <title>Global Clothiers|Company</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="robots" content="noindex, nofollow">
-    <script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/menu.js"></script>
-    <!--<script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/searchfield.js"></script> -->
-    <script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/simpleCart.js"></script>
+    <script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/menu.js"></script>
+    <!--<script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/searchfield.js"></script> -->
+    <script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/simpleCart.js"></script>
     <script language="JavaScript" type="text/javascript">
         window.onunload = function() {
             void(0)
@@ -33,10 +33,10 @@
     </script>
 
     <style type="text/css">
-        @import url(http://ats-sb.adobe.com/jjsite/include/css/jje.css);
-        @import url(http://ats-sb.adobe.com/jjsite/include/css/menu.css);
+        @import url(https://ats-sb.adobe.com/jjsite/include/css/jje.css);
+        @import url(https://ats-sb.adobe.com/jjsite/include/css/menu.css);
     </style>
-    <link rel="shortcut icon" href="http://ats-sb.adobe.com/jjsite/include/images/jj1.ico">
+    <link rel="shortcut icon" href="https://ats-sb.adobe.com/jjsite/include/images/jj1.ico">
 </head>
 
 <body>
@@ -188,7 +188,7 @@
                         <td valign="top">
                             <div style="width:195px;margin-right:5px;">
                                 <a href="travel1.php">
-                                    <img src="http://ats-sb.adobe.com/jjsite/include/images/hotel_sitesection.jpg" class="photo" width="190" border="0" />
+                                    <img src="https://ats-sb.adobe.com/jjsite/include/images/hotel_sitesection.jpg" class="photo" width="190" border="0" />
                                 </a>
                                 <br />
                                 <div class="category"><a href="travel1.php">GC Travel</a>
@@ -197,7 +197,7 @@
                         </td>
                         <td valign="top">
                             <div style="width:195px;margin-right:5px;">
-                                <a href="newsletter1.php"><img src="http://ats-sb.adobe.com/jjsite/include/images/email1.jpg" class="photo" width="190" border="0" />
+                                <a href="newsletter1.php"><img src="https://ats-sb.adobe.com/jjsite/include/images/email1.jpg" class="photo" width="190" border="0" />
                                 </a>
                                 <br />
                                 <div class="category"><a href="newsletter1.php">GC Newsletters</a>
@@ -206,7 +206,7 @@
                         </td>
                         <td valign="top">
                             <div style="width:195px;margin-right:5px;">
-                                <a href="courselinks.php"><img src="http://ats-sb.adobe.com/jjsite/include/images/whitepapers.jpg" class="photo" width="190" border="0" />
+                                <a href="courselinks.php"><img src="https://ats-sb.adobe.com/jjsite/include/images/whitepapers.jpg" class="photo" width="190" border="0" />
                                 </a>
                                 <br />
                                 <div class="category">

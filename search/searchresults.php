@@ -40,9 +40,9 @@ DOCTYPE HTML>
     <title>Global Clothiers|Search Results</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="robots" content="noindex, nofollow">
-    <script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/menu.js"></script>
-    <!--<script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/searchfield.js"></script> -->
-    <script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/simpleCart.js"></script>
+    <script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/menu.js"></script>
+    <!--<script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/searchfield.js"></script> -->
+    <script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/simpleCart.js"></script>
     <script language="JavaScript" type="text/javascript">
         window.onunload = function() {
             void(0)
@@ -52,10 +52,10 @@ DOCTYPE HTML>
         <!--if (document.images) {pic1= new Image(200,70); pic1.src="../images/gc_logo.png";}//-->
     </script>
     <style type="text/css">
-        @import url(http://ats-sb.adobe.com/jjsite/include/css/jje.css);
-        @import url(http://ats-sb.adobe.com/jjsite/include/css/menu.css);
+        @import url(https://ats-sb.adobe.com/jjsite/include/css/jje.css);
+        @import url(https://ats-sb.adobe.com/jjsite/include/css/menu.css);
     </style>
-    <link rel="shortcut icon" href="http://ats-sb.adobe.com/jjsite/include/images/jj1.ico">
+    <link rel="shortcut icon" href="https://ats-sb.adobe.com/jjsite/include/images/jj1.ico">
 </head>
 
 <body>
@@ -198,7 +198,7 @@ DOCTYPE HTML>
                                 <td>
                                     <span>
                               <a href="../women/activewear/fur_trim_ski_jacket.php">
-                              <img src="http://ats-sb.adobe.com/jjsite/include/images/active2.jpg" height="100px" border="0" />
+                              <img src="https://ats-sb.adobe.com/jjsite/include/images/active2.jpg" height="100px" border="0" />
                               </span>
                                     <span>Fur Trim Ski Jacket
                               </a>
@@ -207,7 +207,7 @@ DOCTYPE HTML>
                                     <br />
                                     <span>
                               <a href="../women/activewear/waist_puffer_jacket.php">
-                              <img src="http://ats-sb.adobe.com/jjsite/include/images/active1.jpg" height="100px" border="0" />
+                              <img src="https://ats-sb.adobe.com/jjsite/include/images/active1.jpg" height="100px" border="0" />
                               </span>
                                     <span>Tie-Waist Puffer Jacket
                               </a>
@@ -216,7 +216,7 @@ DOCTYPE HTML>
                                     <br />
                                     <span>
                               <a href="../women/activewear/frontzip_ski_jacket.php">
-                              <img src="http://ats-sb.adobe.com/jjsite/include/images/active3.jpg" height="100px" border="0" />
+                              <img src="https://ats-sb.adobe.com/jjsite/include/images/active3.jpg" height="100px" border="0" />
                               </span>
                                     <span>Zip-Front Ski Jacket
                               </a>

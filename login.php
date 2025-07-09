@@ -38,9 +38,9 @@ document.getElementById("loginStatus").innerHTML = "Happy trails! You're logged 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="robots" content="noindex, nofollow">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/menu.js"></script>
-    <!--<script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/searchfield.js"></script> -->
-    <script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/simpleCart.js"></script>
+    <script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/menu.js"></script>
+    <!--<script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/searchfield.js"></script> -->
+    <script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/simpleCart.js"></script>
     <script language="JavaScript" type="text/javascript">
         window.onunload = function() {
             void(0)
@@ -50,10 +50,10 @@ document.getElementById("loginStatus").innerHTML = "Happy trails! You're logged 
         <!--if (document.images) {pic1= new Image(200,70); pic1.src="../images/gc_logo.png";}//-->
     </script>
     <style type="text/css">
-        @import url(http://ats-sb.adobe.com/jjsite/include/css/jje.css);
-        @import url(http://ats-sb.adobe.com/jjsite/include/css/menu.css);
+        @import url(https://ats-sb.adobe.com/jjsite/include/css/jje.css);
+        @import url(https://ats-sb.adobe.com/jjsite/include/css/menu.css);
     </style>
-    <link rel="shortcut icon" href="http://ats-sb.adobe.com/jjsite/include/images/jj1.ico">
+    <link rel="shortcut icon" href="https://ats-sb.adobe.com/jjsite/include/images/jj1.ico">
 </head>
 
 <body>

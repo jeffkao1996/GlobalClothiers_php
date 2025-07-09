@@ -22,9 +22,9 @@
     <title>Global Clothiers|Women|Fine Apparel</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="robots" content="noindex, nofollow">
-    <script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/menu.js"></script>
-    <!--<script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/searchfield.js"></script> -->
-    <script type="text/javascript" src="http://ats-sb.adobe.com/jjsite/include/scripts/simpleCart.js"></script>
+    <script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/menu.js"></script>
+    <!--<script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/searchfield.js"></script> -->
+    <script type="text/javascript" src="https://ats-sb.adobe.com/jjsite/include/scripts/simpleCart.js"></script>
     <script language="JavaScript" type="text/javascript">
         window.onunload = function() {
             void(0)
@@ -35,10 +35,10 @@
     </script>
 
     <style type="text/css">
-        @import url(http://ats-sb.adobe.com/jjsite/include/css/jje.css);
-        @import url(http://ats-sb.adobe.com/jjsite/include/css/menu.css);
+        @import url(https://ats-sb.adobe.com/jjsite/include/css/jje.css);
+        @import url(https://ats-sb.adobe.com/jjsite/include/css/menu.css);
     </style>
-    <link rel="shortcut icon" href="http://ats-sb.adobe.com/jjsite/include/images/jj1.ico">
+    <link rel="shortcut icon" href="https://ats-sb.adobe.com/jjsite/include/images/jj1.ico">
 </head>
 
 <body>
@@ -178,7 +178,7 @@
                         <td valign="top">
                             <div style="width:195px;margin-right:5px;">
                                 <a href="black_dress.php">
-                                    <img src="http://ats-sb.adobe.com/jjsite/include/images/dress.jpg" class="photo" width="190" border="0" />
+                                    <img src="https://ats-sb.adobe.com/jjsite/include/images/dress.jpg" class="photo" width="190" border="0" />
                                 </a>
                                 <br />
                                 <div class="search_title"><a href="black_dress.php">Black Dress</a>
@@ -194,7 +194,7 @@
                         <div style="width:195px;margin-right:5px;">
                             <div class="search_content">
                                 <div class="search_content_inner">
-                                    <a href="red_dress.php"><img src="http://ats-sb.adobe.com/jjsite/include/images/reddress.jpg" class="photo" width="190" border="0" />
+                                    <a href="red_dress.php"><img src="https://ats-sb.adobe.com/jjsite/include/images/reddress.jpg" class="photo" width="190" border="0" />
                                     </a>
                                     <br />
                                     <div class="search_title"><a href="red_dress.php">Red Dress</a>
@@ -210,7 +210,7 @@
                         <div style="width:195px;margin-right:5px;">
                             <div class="search_content">
                                 <div class="search_content_inner">
-                                    <a href="sequin_dress.php"><img src="http://ats-sb.adobe.com/jjsite/include/images/sequin_dress.jpg" class="photo" width="190" border="0" />
+                                    <a href="sequin_dress.php"><img src="https://ats-sb.adobe.com/jjsite/include/images/sequin_dress.jpg" class="photo" width="190" border="0" />
                                     </a>
                                     <br />
                                     <div class="search_title"> <a href="sequin_dress.php">Sequin Dress</a>
@@ -225,7 +225,7 @@
                         <div style="width:195px;margin-right:5px;">
                             <div class="search_content">
                                 <div class="search_content_inner">
-                                    <a href="silk_dress.php"><img src="http://ats-sb.adobe.com/jjsite/include/images/silk_dress.jpg" class="photo" width="190" border="0" />
+                                    <a href="silk_dress.php"><img src="https://ats-sb.adobe.com/jjsite/include/images/silk_dress.jpg" class="photo" width="190" border="0" />
                                     </a>
                                     <br />
                                     <div class="search_title"><a href="silk_dress.php">Silk Dress</a>
