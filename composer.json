@@ -1,0 +1,6 @@
+{
+  "name": "jeffkao1996/globalclothiers_php",
+  "require": {
+    "php": "^8.0"
+  }
+}
